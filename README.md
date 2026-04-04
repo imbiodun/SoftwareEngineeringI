@@ -1,2 +1,12 @@
 # SoftwareEngineeringI
-An Example to follow along in the git tutorial  
+
+This is a group project for the SOFTWARE ENgineeringI Course. We are yet to decide on the project and we are currently working on it at the moment. 
+# Members:
+Famuyiwa Oluwatimilehin
+Andrew Okeke
+Meseret Abza
+Abiodun Akinrinola
+Viet Anh Nguyen
+
+# Build Progress...
+We are on it!!.
