@@ -8,5 +8,7 @@ Meseret Abza
 Abiodun Akinrinola
 Viet Anh Nguyen
 
+The site is live at : https://imbiodun.github.io/SoftwareEngineeringI/
+
 # Build Progress...
 We are on it!!.
