@@ -11,4 +11,4 @@ Viet Anh Nguyen.
 The site is live at : https://imbiodun.github.io/SoftwareEngineeringI/
 
 # Build Progress...
-We are on it!!.
+We just created a a simple HTML page to show our names. This is valid for this task becausethe task was to understand how github works and practice collaborations. 
